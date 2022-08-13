@@ -1,0 +1,19 @@
+<!--
+
+Exercício 5 - HTML - Imagem Local
+Aluna: Débora Ferreira de Oliveira
+
+Crie uma página com uma mesma imagem sendo apresentada em 3 tamanhos diferentes, sendo que a imagem deve estar em um link interno, ou seja, em um arquivo local na mesma pasta da página.
+
+-->
+<html>
+  
+<body>
+<img src="gato.jpeg" alt="gato" width="283" height="178">
+<br>
+<img src="gato.jpeg" alt="gato" width="141.4" height="89">
+<br>
+<img src="gato.jpeg" alt="gato" width="70.75" height="44.5">  
+</body>
+  
+</html> 
