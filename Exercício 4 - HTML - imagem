@@ -1,0 +1,23 @@
+<!--
+
+Exercício 4 - HTML - imagem
+Aluna: Débora Ferreira de Oliveira
+
+Crie uma página com uma mesma imagem sendo apresentada em 3 tamanhos diferentes, sendo que a imagem deve estar em um link externo na internet.
+
+-->
+<html>
+  
+<body>
+<img src="https://www.purina.pt/sites/default/files/2021-02/BREED%20Hero_0075_japanese_shiba_inu.jpg" alt="descrição 
+alternativa" width="325" height="344">
+<br>  
+<img src="https://www.purina.pt/sites/default/files/2021-02/BREED%20Hero_0075_japanese_shiba_inu.jpg" alt="descrição 
+alternativa" width="162" height="172">
+<br>  
+<img src="https://www.purina.pt/sites/default/files/2021-02/BREED%20Hero_0075_japanese_shiba_inu.jpg" alt="descrição 
+alternativa" width="81" height="86">
+  
+</body>
+  
+</html> 
