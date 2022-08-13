@@ -1,0 +1,16 @@
+<!--
+
+Exercício 3 - HTML - Link para conteúdo sobre HTML
+Aluna: Débora Ferreira de Oliveira
+
+Crie uma página com um link para uma página na internet que tenha conteúdo sobre html ou sobre programação para a web.
+
+-->
+<html>
+  
+<body>
+<h1> Link abaixo</h1>
+<a href="https://www.w3schools.com/html/">W3 Schools</a>
+</body>
+  
+</html> 
