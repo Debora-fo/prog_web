@@ -1,0 +1,22 @@
+<!--
+Exercício 2 - HTML - Elemento h
+Aluna: Débora Ferreira de Oliveira
+
+Link do GitHub: 
+
+
+Crie uma página contendo elementos h de 1 a 6 (h1,h2…h6) com texto a sua escolha
+
+-->
+<html>
+  
+<body>
+<h1> Texto 1 </h1>
+<h2> Texto 2 </h2>
+<h3> Texto 3 </h3>
+<h4> Texto 4 </h4>
+<h5> Texto 5 </h5>
+<h6> Texto 6 </h6>
+</body>
+  
+</html> 
