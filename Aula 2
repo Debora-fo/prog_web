@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Título</title>
+        <!--Para declarar que essa página contém metadados!-->
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <h2>Título</h2>
+        <p>Texto</p>
+
+        <!--Imagens-->
+        <p>Alt serve para colocar um texto descritivo para a imagem:</p>          
+        <img src="shiba.jpg" alt="shiba" width="259" height="194">
+        
+        <p>Colocar link direto sem usar aspas:</p>
+        <a href=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/1200px-Taka_Shiba.jpg>Link do doguinho</a>
+
+        <!--Dicas ao passar o mouse na tela-->
+        <p title=Dica aqui>
+            Isso é um texto grande haha
+        </p>
+
+        <p><b>
+            Blablablablabla blabla blablabla
+        </b></p>
+
+        <!--Como organizar parágrafos-->
+
+        <p>Este parágrafo
+            contém várias linhas e espaços em branco
+
+            mas              o navegador ignora isso
+        </p>
+
+        <p>Esse é um parágrafo<br/> com o caractere br <br/> que faz quebra de linhas.
+        </p>
+
+        <pre>
+            O pre preserva os espaços e
+            as linhas em branco         (a formatação do seu texto)
+        </pre>
+    </body>
+</html>
