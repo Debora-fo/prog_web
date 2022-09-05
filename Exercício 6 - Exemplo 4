@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<pre>
+function minhaFuncao( valorRecebido ){
+alert (valorRecebido)}
+</pre>
+</body>
+</html>
