@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+ <body>
+ <p>Texto não centralizado.</p>
+ <center>
+ <p>Texto no centro.</p>
+ </center>
+ </body>
+</html>
