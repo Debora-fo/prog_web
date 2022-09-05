@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Parágrafo no início</p>
+<hr />
+<p>Parágrafo posterior fica em baixo</p>
+</body>
+</html>
