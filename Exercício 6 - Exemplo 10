@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Lista não ordenada</h2>
+<ul>
+<li>Pão</li>
+<li>Arroz</li>
+<li>Chá</li>
+</ul>
+<h2>Lista ordenada</h2>
+<ol>
+<li>Pão</li>
+<li>Arroz</li>
+<li>Chá</li>
+</ol>
+</body>
+</html>
