@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Imagens HTML</h2>
+<P>Imagens:</P>
+<img src="cachorro.jpg"alt="Cachorro" width="386"height="257">
+</body>
+</html>
