@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Texto normal</h2>
+<P style="color:red">Texto em vermelho</P>
+<P style="color:blue">Texto em azul</P>
+<P style="font-size:50px">Texto grande</P>
+</body>
+</html>
