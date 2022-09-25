@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><style> p.error {color:red;}</style></head>
+<body>
+<p>Parágrafo</p>
+<p>Parágrafo</p>
+<p class="error">Parágrafo</p>
+<p>Parágrafo</p>
+<p class="error">Parágrafo</p>
+</body>
+</html>
