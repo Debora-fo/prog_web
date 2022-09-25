@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<p>O elemento HTML possui meta dados.</p>
+<p>Um meta dado é um dado sobre o documento HTML.</p>
+</body>
+</html>
