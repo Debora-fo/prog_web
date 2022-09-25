@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><style> #p01 {color:blue;}</style></head>
+<body>
+<p>Parágrafo</p>
+<p>Parágrafo</p>
+<p id="p01">Parágrafo</p>
+</body>
+</html>
