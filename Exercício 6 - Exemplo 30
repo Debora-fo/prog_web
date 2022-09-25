@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>O elemento ins sublinha o texto</p>
+<p>Bla <ins> Sublinhado</ins> Bla</p>
+</body>
+</html>
