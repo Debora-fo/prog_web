@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>O elemento cite fica em itálico</p>
+<img src="shiba-1280x720.jpeg" width="1280" height="720" alt="Shiba Inu">
+<p><cite>Shiba Inu</cite> Fofinho</p>
+</body>
+</html>
