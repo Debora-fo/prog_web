@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Width e Height</h2>
+<p>Width e Height da tag img definem a largura e altura da imagem:</p>
+<img src="shiba-1280x720.jpeg" width="1280"height="720">
+</body>
+</html>
