@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Preto</p>
+<p style="color:red">Vermelho</p>
+<p style="color:blue">Azul</p>
+<p style="font-size:50px">Grande</p>
+</body>
+</html>
