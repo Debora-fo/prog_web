@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu de navegação</title>
+</head>
+<body>
+<h1>
+<center>Titanic </center>
+</h1>
+<p>
+<center style="background-color:LightBlue;"> Home | Sobre| <b style="color:GhostWhite;">Tickets</b> | Acessar
+</center>
+</p>
+<h4><center>Tickets</center></h4>
+
+<pre style="border: 1px solid black">
+
+<center><b>Viagem pelo Atlântico</b></center>
+
+	Partida:
+	10 de abril de 1912.
+	Porto de Southampton, Inglaterra.
+
+	Chegada:
+	15 de abril de 1912.
+	Nova York, Estados Unidos
+
+	Valores:
+	Primeira classe - R$15.000,00
+	Segunda classe - R$ 6.000,00
+
+<center><button>Comprar</button></center>
+</pre>
+
+<pre style="border: 1px solid black">
+
+<center><b>Viagem emocionante pelo Atlântico</b></center>
+
+	Partida:
+	10 de abril de 1912.
+	Porto de Southampton, Inglaterra.
+
+	Chegada:
+	15 de abril de 1912.
+	Iceberg
+
+	Valores:
+	Primeira classe - R$15.000,00
+	Segunda classe - R$ 6.000,00
+
+<center><button>Comprar</button></center>
+</pre>
+
+</body>
+</html>
