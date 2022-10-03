@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu de navegação</title>
+</head>
+<body>
+<h1>
+<center>Titanic </center>
+</h1>
+<p>
+<center style="background-color:LightBlue;"> Home | Sobre|<b style="color:GhostWhite;"> Tickets </b>| Acessar </center>
+<br>
+
+<form>
+Escolha a viagem:<br>
+	<input type="radio" id="normal" name="viagem" value="normal">	<label for="normal">Viagem pelo Atlântico</label><br>
+    <input type="radio" id="emoicionante" name="viagem" value="emoicionante">
+    <label for="emoicionante">Viagem emocionante pelo Atlântico</label><br><br>
+
+Escolha a classe:<br>
+  <input type="radio" id="primeira" name="classe" value="primeira">
+  <label for="primeira">Primeira classe - R$15.000,00</label><br>
+  <input type="radio" id="segunda" name="classe" value="segunda">
+  <label for="segunda">Segunda classe - R$ 6.000,00</label><br><br>
+ 
+  <input type="submit" value="Comprar">
+</form>
+</body>
+</html>
