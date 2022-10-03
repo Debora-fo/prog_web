@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu de navegação</title>
+</head>
+<body>
+<h1>
+<center>Titanic </center>
+</h1>
+<p>
+<center style="background-color:LightBlue;"> Home | Sobre|<b style="color:GhostWhite;"> Tickets </b>| Acessar </center>
+<br>
+
+<h5>Compra confirmada!</h5>
+</body>
+</html>
