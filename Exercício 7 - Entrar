@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu de navegação</title>
+</head>
+<body>
+<h1>
+<center>Titanic </center>
+</h1>
+<p>
+<center style="background-color:LightBlue;"> Home | Sobre| Tickets | <b style="color:GhostWhite;"> Acessar</b>
+</center>
+
+</p><p style="border: 1px solid black">Usuário:</p>
+<p style="border: 1px solid black">Senha</p>
+
+<p style="color:LightBlue;">Esqueci minha senha</p>
+
+<center><button>Entrar</button></center>
+<br>
+<center><button>Cadastrar</button></center>
+</body>
+</html>
