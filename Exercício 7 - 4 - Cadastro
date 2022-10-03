@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu de navegação</title>
+</head>
+<body>
+<h1>
+<center>Titanic </center>
+</h1>
+<p>
+<center style="background-color:LightBlue;"> Home | Sobre| Tickets | <b style="color:GhostWhite;"> Acessar</b>
+</center>
+<br>
+<center><form>
+  <label for="fname">Nome:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email"><br>
+  <label for="address">Endereço:</label><br>
+  <input type="text" id="address" name="address"><br>
+  <label for="phone">Telefone:</label><br>
+  <input type="text" id="phone" name="phone"><br>
+  <label for="sexo">Sexo:</label><br>
+  <input type="text" id="sexo" name="sexo"><br>
+  <label for="age">Idade:</label><br>
+  <input type="text" id="age" name="age"><br>
+  <label for="username">Usuário:</label><br>
+  <input type="text" id="username" name="username"><br>
+  <label for="pwd">Senha:</label><br>
+  <input type="password" id="pwd" name="pwd"><br><br>
+  <input type="submit" value="Enviar">
+</form></center>
+</body>
+</html>
