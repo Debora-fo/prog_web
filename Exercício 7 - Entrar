@@ -10,11 +10,15 @@
 <p>
 <center style="background-color:LightBlue;"> Home | Sobre| Tickets | <b style="color:GhostWhite;"> Acessar</b>
 </center>
+<br>
+<center><form>
+  <label for="fname">Usuário:</label><br>
+  <input type="text" id="fname" name="fname" value="Usuário"><br>
+  <label for="lname">Senha:</label><br>
+  <input type="text" id="lname" name="lname" value="Senha">
+</form></center>
 
-</p><p style="border: 1px solid black">Usuário:</p>
-<p style="border: 1px solid black">Senha</p>
-
-<p style="color:LightBlue;">Esqueci minha senha</p>
+<center><p style="color:LightBlue;">Esqueci minha senha</p></center>
 
 <center><button>Entrar</button></center>
 <br>
