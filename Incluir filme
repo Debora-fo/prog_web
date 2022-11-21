@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menu de navegação</title>
+</head>
+<body>
+<h1>
+<center>Filmes com SQL Server </center>
+</h1>
+<p>
+<center style="background-color:LightBlue;"> Lista de Filmes | Editar Filme |<b style="color:GhostWhite;"> Incluir Filme </b>
+</center>
+<br>
+<form>
+  <label for="quantity">Código:</label>
+  <input type="number" id="quantity" name="quantity" min="0" max="100"><br><br> 
+  <label for="fname">Nome:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="quantity">Duração (em minutos):</label>
+  <input type="number" id="quantity" name="quantity" min="0" max="5000"><br><br> 
+  <label for="fname">Gênero:</label>
+  <select name="generos" id="generos">
+  <option value="vazio"> </option>
+  <option value="acao">Ação</option>
+  <option value="romance">Romance</option>
+  <option value="comedia">Comédia</option>
+  <option value="ficcaocientifica">Ficção Científica</option>
+  <option value="drama">Drama</option>
+  <option value="terror">Terror</option>
+  <option value="fantasia">Fantasia</option>
+  <option value="documentario">Documentário</option>
+  <option value="suspense">Suspense</option>
+</select>
+  <br><br><input type="submit" value="Enviar">
+</form>
+</body>
+<p><center style="background-color:LightBlue;">
+<p style="color:GhostWhite;"> Grupo: Débora, Pedro Henrique Jaber e Robert.
+</center></p>
+</html>
