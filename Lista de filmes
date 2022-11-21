@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+<title>Menu de navegação</title>
+</head>
+<body>
+<h1>
+<center>Filmes com SQL Server </center>
+</h1>
+<p>
+<center style="background-color:LightBlue;"> <b style="color:GhostWhite;"> Lista de Filmes </b>| Editar Filme | Incluir Filme </b>
+</center>
+<br>
+<h3>
+<center>Filmes: </center>
+</h3>
+<table>
+  <tr>
+    <th>Código</th>
+    <th>Nome</th>
+    <th>Duração</th>
+    <th>Gênero</th>
+  </tr>
+  <tr>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+  </tr>
+  <tr>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+  </tr>
+  <tr>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+  </tr>
+  <tr>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+  </tr>
+  <tr>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+  </tr>
+  <tr>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+    <td>teste</td>
+  </tr>
+</table>    
+
+</body>
+<p><center style="background-color:LightBlue;">
+<p style="color:GhostWhite;"> Grupo: Débora, Pedro Henrique Jaber e Robert.
+</center></p>
+</html>
